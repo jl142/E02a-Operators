@@ -23,7 +23,7 @@ To help you along, I have implemented the add function. Also, here are a few onl
 
  As always, commit and push your changes to GitHub, and then turn in the URL to your repository on Canvas. 
 
----
+---After a series of searches and notes and materials, each time I finished writing a piece of code, I used python to conduct further tests to determine whether my code could be successfully written. It turns out that some programs are a bit more difficult because, unlike a lot of advanced code written on the web, you can understand some of the most basic processes by going through the most basic code.
 
 The grading criteria will be as follows:
 
